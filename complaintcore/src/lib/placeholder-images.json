@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Tech inspired background with abstract blue glowing nodes",
+      "imageUrl": "https://picsum.photos/seed/tech1/1200/800",
+      "imageHint": "abstract technology"
+    },
+    {
+      "id": "agent-alice",
+      "description": "Avatar for Alice Smith",
+      "imageUrl": "https://picsum.photos/seed/alice/100/100",
+      "imageHint": "professional avatar"
+    },
+    {
+      "id": "agent-bob",
+      "description": "Avatar for Bob Johnson",
+      "imageUrl": "https://picsum.photos/seed/bob/100/100",
+      "imageHint": "professional avatar"
+    }
+  ]
+}
